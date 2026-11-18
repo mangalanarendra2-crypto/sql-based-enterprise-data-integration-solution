@@ -1,0 +1,6 @@
+erp_id,name,email,country,credit_limit
+E100,Asha V.,asha.verma@example.com,India,50000
+E101,John Carter,john.carter@example.com,United States,75000
+E102,Priya Nair,priya.nair@example.com,India,30000
+E103,Tom Baker,tom.baker@example.com,UK,20000
+E104,Maria Lopez,maria.lopez@example.com,ES,40000
